@@ -25,6 +25,7 @@ The purpose of this project is to **showcase practical knowledge of software tes
 ## Project Structure
 
 ├── pom.xml # Maven configuration and dependencies
+
 ├── src/
 │ ├── main/
 │ │ ├── java/
